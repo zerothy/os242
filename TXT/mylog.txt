@@ -11,3 +11,5 @@ ZCZC W00 200 L11 Assignment #01
 ZCZC W01 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W01 60 L11 Assignment #01 
 ZCZC W01 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W01 40 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC w01 60 L21 Trying something
