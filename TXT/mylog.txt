@@ -14,4 +14,4 @@ ZCZC W01 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W01 40 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W01 60 L21 Trying something
 ZCZC W01 120 L30 Udacity: study, etc.
-ZCZC W01 200 L86 House chore, including helping mom (last day with mom till next year D:)
+ZCZC W01 200 L86 House chore, including helping mom (last day with my mom till next year D:)
