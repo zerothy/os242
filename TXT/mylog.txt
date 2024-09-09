@@ -15,3 +15,4 @@ ZCZC W01 40 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W01 60 L21 Trying something
 ZCZC W01 120 L30 Udacity: study, etc.
 ZCZC W01 200 L86 House chore, including helping mom (last day with my mom till next year D:)
+ZCZC W02 120 L12 Assignment #02
