@@ -2,4 +2,4 @@
 # Check https://os.vlsm.org/Log/
 ZCZC W02 Cyades
 ZCZC W02 hyvos07
-ZCZC W02 hamletjr
+ZCZC W02 HamletJr
