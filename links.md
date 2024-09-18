@@ -21,7 +21,13 @@ Great video for a brief introduction on Linux.
 5. [Cyber Security Crash Course](https://youtu.be/U_P23SqJaDc?si=5Nx6UN2lewViHRki)<br>
 5 hours long of Cyber Security course. Good video to learn most of the basic needed for CS.
 
+6. [How to Use SCP Command](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)<br>
+The link to a tutorial on how to use the SCP command. Just in case i need it quick.
+
+7. [Dual Boot Archlinux and Windows Tutorial](https://youtu.be/4dKzYmhcGEU?si=veodyHAgd2qezXIr)<br>
+ARCHLINUX??? I use arch btw. The tutorial i'll trust. If i never came back, it means that this tutorial failed me.
+
 <br>
 <br>
-#### REV: Sun 08 Sep 2024 19:04
+#### REV: Wed 18 Sep 2024 09:01
 <hr>
