@@ -25,9 +25,15 @@ Great video for a brief introduction on Linux.
 The link to a tutorial on how to use the SCP command. Just in case i need it quick.
 
 7. [Dual Boot Archlinux and Windows Tutorial](https://youtu.be/4dKzYmhcGEU?si=veodyHAgd2qezXIr)<br>
-ARCHLINUX??? I use arch btw. The tutorial i'll trust. If i never came back, it means that this tutorial failed me.
+ARCHLINUX??? I use arch btw. The tutorial i'll trust. If i never came back, it means that this tutorial failed me. (I survived :D)
+
+8. [Arch Linux Post Installation Guide ft. Mashed](https://youtu.be/YPrhIfm3VJs?si=xoyJAJEdriyt3hJ6)<br>
+What to do after install??? just watch this guide :D
+
+9. [OS Log Codes](https://osp4diss.vlsm.org/ETC/logCodes.txt)<br>
+Gonna drop it here so i won't scroll through the main link again.
 
 <br>
 <br>
-#### REV: Wed 18 Sep 2024 09:01
+#### REV: Mon 30 Sep 2024 10:59
 <hr>
