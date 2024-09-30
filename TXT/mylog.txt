@@ -20,3 +20,8 @@ ZCZC W03 420 L99 Other (Installing Archlinux)
 ZCZC W03 200 L60 Install/Reinstall/Restore/Backup Desktop or Laptop (yes i failed the first time)
 ZCZC W03 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W03 100 L13 Assignment #03
+ZCZC W04 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W04 60 L14 Assignment #04
+ZCZC W04 240 L70 Studying for other courses.
+ZCZC W04 120 L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W04 80 L06 References/Books/Documents/Browsing/GSGS related
