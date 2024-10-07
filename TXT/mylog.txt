@@ -25,3 +25,5 @@ ZCZC W04 60 L14 Assignment #04
 ZCZC W04 240 L70 Studying for other courses.
 ZCZC W04 120 L80 Waching: Movie, YouTube, TV, Netflix, etc.
 ZCZC W04 80 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W05 120 L15 Assignment #05
+ZCZC W05 80 L80 Watching: Movie, YouTube, TV, Netflix, etc.

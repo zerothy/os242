@@ -33,7 +33,10 @@ What to do after install??? just watch this guide :D
 9. [OS Log Codes](https://osp4diss.vlsm.org/ETC/logCodes.txt)<br>
 Gonna drop it here so i won't scroll through the main link again.
 
+10. [From Students to Students](https://doit.vlsm.org/040.html)<br>
+The link to show past students github for reference purposes.
+
 <br>
 <br>
-#### REV: Mon 30 Sep 2024 10:59
+#### REV: Mon 07 Oct 2024 18:13
 <hr>
