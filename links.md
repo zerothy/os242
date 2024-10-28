@@ -36,7 +36,10 @@ Gonna drop it here so i won't scroll through the main link again.
 10. [From Students to Students](https://doit.vlsm.org/040.html)<br>
 The link to show past students github for reference purposes.
 
+11. [Debian Docs](https://www.debian.org/doc/)<br>
+Just to have a debian docs ready to use.
+
 <br>
 <br>
-#### REV: Mon 07 Oct 2024 18:13
+#### REV: Tue 29 Oct 2024 00:31
 <hr>

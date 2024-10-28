@@ -28,3 +28,5 @@ ZCZC W04 80 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W05 120 L15 Assignment #05
 ZCZC W05 80 L80 Watching: Movie, YouTube, TV, Netflix, etc.
 ZCZC W05 110 L99 Other (fixing git)
+ZCZC W06 40 L16 Assignment #06
+ZCZC W06 120 L80 Watching: Movie, YouTube, TV, Netflix, etc.
