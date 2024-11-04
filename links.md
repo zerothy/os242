@@ -39,7 +39,10 @@ The link to show past students github for reference purposes.
 11. [Debian Docs](https://www.debian.org/doc/)<br>
 Just to have a debian docs ready to use.
 
+12. [Best Song I Ever Heard in My Entire Life](https://youtu.be/At8v_Yc044Y?si=ZI_zM1b_SZ1BUdiY)<br>
+This is literally the best song in my entire life. He never disappoints when it comes to disappointing!!
+
 <br>
 <br>
-#### REV: Tue 29 Oct 2024 00:31
+#### REV: Tue 04 Nov 2024 23:24
 <hr>

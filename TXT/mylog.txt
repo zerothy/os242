@@ -30,3 +30,5 @@ ZCZC W05 80 L80 Watching: Movie, YouTube, TV, Netflix, etc.
 ZCZC W05 110 L99 Other (fixing git)
 ZCZC W06 40 L16 Assignment #06
 ZCZC W06 120 L80 Watching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W07 60 L17 Assignment #07
+ZCZC W07 200 L00 General, etc.
