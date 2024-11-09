@@ -42,7 +42,9 @@ Just to have a debian docs ready to use.
 12. [Best Song I Ever Heard in My Entire Life](https://youtu.be/At8v_Yc044Y?si=ZI_zM1b_SZ1BUdiY)<br>
 This is literally the best song in my entire life. He never disappoints when it comes to disappointing!!
 
+13. [Kernotex Playlist for LFS](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3)<br>
+
 <br>
 <br>
-#### REV: Tue 04 Nov 2024 23:24
+#### REV: Tue 09 Nov 2024 16:59
 <hr>
