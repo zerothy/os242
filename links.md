@@ -44,7 +44,9 @@ This is literally the best song in my entire life. He never disappoints when it 
 
 13. [Kernotex Playlist for LFS](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3)<br>
 
+14. [Link to the prettiest girl ive ever seen!](https://www.instagram.com/luveinaas/)<br>
+
 <br>
 <br>
-#### REV: Tue 09 Nov 2024 16:59
+#### REV: Sat 16 Nov 2024 17:11
 <hr>
