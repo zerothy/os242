@@ -36,3 +36,6 @@ ZCZC W08 200 L18 Assignment #08
 ZCZC W08 200 L00 General, etc.
 ZCZC W09 210 L18 Assignment #09
 ZCZC W09 210 L00 General, etc.
+ZCZC W10 420 L19 Assignment #10
+ZCZC W10 120 L00 General, etc.
+ZCZC W10 200 L80 Watching movies and stuff
